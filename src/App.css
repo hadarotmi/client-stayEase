@@ -1,0 +1,22 @@
+.center {
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+  }
+
+  .img-fluid {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 497px;
+  }
+
+  .muirtl-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed,.muirtl-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+    color: #0D9488 !important;
+  }
+
+  .muirtl-6hp17o-MuiList-root-MuiMenu-list {
+    padding-bottom: 0px !important
+  }
+
