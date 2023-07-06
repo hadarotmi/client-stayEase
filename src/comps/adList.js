@@ -53,7 +53,7 @@ function AdList(props) {
             <div>
                 {ar ?
                     <div className='container-fluid py-5'>
-                        <div className="row row-cols-3 justify-content-center">
+                        <div className="row row-cols-4 justify-content-center">
                             {ar.map(item => {
                                 return (
                                     <AdItem key={item._id} item={item} myAds={props.myAds} />
